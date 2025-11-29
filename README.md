@@ -1,6 +1,5 @@
-# 2048 游戏
+# 2048 Game
 
-在线玩：https://4ark.me/2048
+To Play：https://jinnotgin.github.io/2048/
 
-如果对您有帮助欢迎 Star！😋
-
+(forked from gd4Ark/2048)
